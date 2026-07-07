@@ -1,0 +1,33 @@
+	{
+		"name": "Japan",
+		"leaderName": "Oda Nobunaga",
+		"adjective": ["Japanese"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		"personality": "Oda Nobunaga",
+		
+		"startIntroPart1": "Blessings upon you, noble Oda Nobunaga, ruler of Japan, the land of the Rising Sun! May you long walk among its flowering blossoms. The Japanese are an island people, proud and pious with a rich culture of arts and letters. Your civilization stretches back thousands of years, years of bloody warfare, expansion and isolation, great wealth and great poverty. In addition to their prowess on the field of battle, your people are also immensely industrious, and their technological innovation and mighty factories are the envy of lesser people everywhere.",
+		"startIntroPart2": "Legendary daimyo, will you grab the reins of destiny? Will you bring your family and people the honor and glory they deserve? Will you once again pick up the sword and march to triumph? Will you build a civilization that stands the test of time?",
+		
+		"declaringWar": "I hereby inform you of our intention to wipe out your civilization from this world.",
+		"attacked": "Pitiful fool! Now we shall destroy you!",
+		"defeated": "You were much wiser than I thought.",
+		"denounced": "A threat is better expressed through action, rather than words.",
+		"introduction": "We hope for a fair and just relationship with you, who are renowned for military bravery.",
+		"neutralHello": "Hello.",
+		"hateHello": "Oh, it's you...",
+		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
+		"favoredReligion": "Taoism",
+		
+		"outerColor": [255,255,255],
+		"innerColor": [188,0,45],
+		
+		"uniqueName": "Bushido",
+		"uniqueText": "Gain +5% Strength for Military units for every 25 HP lost\nEarn 50% of killed Military unit's Strength as [Culture]\n+1 [Culture] from Fishing Boats and from Water Features",
+		"uniques": ["[+5]% Strength <for [Military] units> <when below [100] HP> <when above [75] HP>", "[+10]% Strength <for [Military] units> <when below [76] HP> <when above [50] HP>", "[+15]% Strength <for [Military] units> <when below [51] HP> <when above [25] HP>", "[+20]% Strength <for [Military] units> <when below [26] HP>", "[+1 Culture] from every [Fishing Boats]", "[+1 Culture] from every [Atoll]", "[+1 Culture] from every [Kelp Forest]", "[+1 Culture] from every [Coral Reef]", "Earn [50]% of killed [Military] unit's [Strength] as [Culture]"],
+		"cities": ["Kyoto","Tokyo","Osaka","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
+			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
+			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",
+			"Kamakura","Kochi","Naha","Sendai","Gifu","Yamaguchi","Ota","Tottori"],
+		"spyNames": ["Akaishi", "Oki", "Hattori", "Morozumi", "Momochi", "Kawashima", "Orin", "Sakanishi", "Kaede", "Mochizuki"]
+	}
